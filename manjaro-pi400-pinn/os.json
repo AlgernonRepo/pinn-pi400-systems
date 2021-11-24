@@ -1,0 +1,19 @@
+{
+    "name":                     "manjaro64",
+    "description":              "manjaro kde plasma 64-bit 21.10",
+    "release_date":             "2021-11-21",
+    "feature_level":            0,
+    "supported_models": [
+        "Pi 4",
+        "Pi 400",
+        "Pi 3 Model A Plus Rev",
+        "Pi 4 Model B Rev"
+    ],
+    "version":                  "21.10",
+    "kernel":                   "4.19.67-1",
+    "supports_backup":          "false",
+    "url":                      "https://manjaro.org/",
+    "group":                    "General",
+    "username":                 "",
+    "password":                 ""
+}

@@ -1,0 +1,27 @@
+        {
+            "os_name":                  "manjaro64",
+            "description":              "manjaro kde plasma 64-bit 21.10",
+            "release_date":             "2021-11-21",
+            "feature_level":            0,
+            "supported_models": [
+                "Pi 4",
+                "Pi 400",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4 Model B Rev"
+            ],
+            "supports_backup":          "false",
+            "url":                      "https://manjaro.org/",
+            "group":                    "General",
+
+            "download_size":            1229866520,
+            "os_info":                  "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/os.json/download",
+            "partitions_info":          "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/partitions.json/download",
+            "icon":                     "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/manjaro64.png/download",
+            "marketing_info":           "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/marketing.tar/download",
+            "partition_setup":          "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/partition_setup.sh/download",
+            "tarballs": [
+                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/BOOT_MNJRO.tar.xz/download",
+                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/ROOT_MNJRO.tar.xz/download"
+            ],
+            "nominal_size": 9934
+        }
