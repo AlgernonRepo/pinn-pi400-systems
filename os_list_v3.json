@@ -1,0 +1,109 @@
+{
+    "os_list": [
+        {
+            "description": "batocera dev 64-bit v33",
+            "download_size": 845268244,
+            "group": "Games",
+            "icon": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/batoceradev64.png/download",
+            "marketing_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/marketing.tar/download",
+            "nominal_size": 3226,
+            "os_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/os.json/download",
+            "os_name": "batoceradev64",
+            "partition_setup": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/partition_setup.sh/download",
+            "partitions_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/partitions.json/download",
+            "password": "linux",
+            "release_date": "2021-11-16",
+            "supported_hex_revisions": "3111,3112",
+            "supported_models": [
+                "Pi 400",
+                "Pi 4"
+            ],
+            "supports_backup": true,
+            "tarballs": [
+                "https://updates.batocera.org/rpi464/beta/last/boot.tar.xz"
+            ],
+            "url": "https://batocera.org",
+            "username": "root",
+            "version": "33"
+        },
+        {
+            "description": "kali 64-bit 21.10",
+            "download_size": 1229866520,
+            "group": "General",
+            "icon": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/kali64.png/download",
+            "marketing_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/marketing.tar/download",
+            "nominal_size": 9934,
+            "os_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/os.json/download",
+            "os_name": "kali64",
+            "partition_setup": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/partition_setup.sh/download",
+            "partitions_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/partitions.json/download",
+            "password": "kali",
+            "release_date": "2021-11-21",
+            "supported_models": [
+                "Pi 4",
+                "Pi 400"
+            ],
+            "supports_backup": true,
+            "supports_usb_boot": false,            
+            "tarballs": [
+                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/Kali64boot.tar.xz/download",
+                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/Kali64root.tar.xz/download"
+            ],
+            "url": "https://kali.org/",
+            "username": "kali",
+            "version": "2020.10.2"
+        },
+        {
+            "description": "manjaro kde plasma 64-bit 21.10",
+            "download_size": 173926860,
+            "group": "General",
+            "icon": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/manjaro64.png/download",
+            "marketing_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/marketing.tar/download",
+            "nominal_size": 9934,
+            "os_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/os.json/download",
+            "os_name": "manjaro64",
+            "partition_setup": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/partition_setup.sh/download",
+            "partitions_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/partitions.json/download",
+            "password": "",
+            "release_date": "2021-11-21",
+            "supported_models": [
+                "Pi 400",
+                "Pi 4"
+            ],
+            "supports_backup": false,
+            "tarballs": [
+                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/BOOT_MNJRO.tar.xz/download",
+                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/ROOT_MNJRO.tar.xz/download"
+            ],
+            "url": "https://manjaro.org/",
+            "username": "",
+            "version": "21.10"
+        },
+        {
+            "description": "openwrt pi 400 21.02.1",
+            "download_size": 400582588,
+            "group": "Minimal",
+            "icon": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/openwrt.png/download",
+            "marketing_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/marketing.tar/download",
+            "nominal_size": 2800,
+            "os_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/os.json/download",
+            "os_name": "openwrt",
+            "partition_setup": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/partition_setup.sh/download",
+            "partitions_info": "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/partitions.json/download",
+            "password": "?",
+            "release_date": "2021-11-22",
+            "supported_models": [
+                "Pi 400",
+                "Pi 4"
+            ],
+            "supports_backup": false,
+            "tarballs": [
+                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/boot_lede3.tar.xz/download",
+                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/boot_lede3.tar.xz/download"
+            ],
+            "url": "https://openwrt.org",
+            "username": "?",
+            "version": "21.02.1"
+        }
+    ]
+}
