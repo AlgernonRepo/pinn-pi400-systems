@@ -1,0 +1,19 @@
+{
+    "name":                     "openwrt",
+    "description":              "openwrt pi 400 21.02.1",
+    "release_date":             "2021-11-22",
+    "feature_level":            0,
+    "supported_models": [
+        "Pi 4",
+        "Pi 400",
+        "Pi 3 Model A Plus Rev",
+        "Pi 4 Model B Rev"
+    ],
+    "version":                  "21.02.1",
+    "kernel":                   "4.14.131",
+    "supports_backup":          "false",
+    "url":                      "https://openwrt.org",
+    "group":                    "Minimal",
+    "username":                 "?",
+    "password":                 "?"
+}
