@@ -46,8 +46,8 @@
             "supports_backup": true,
             "supports_usb_boot": false,            
             "tarballs": [
-                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/Kali64boot.tar.xz/download",
-                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/kali-pi400-pinn/Kali64root.tar.xz/download"
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/kali-pi400-pinn/Kali64boot.tar.xz",
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/kali-pi400-pinn/Kali64root.tar.xz"
             ],
             "url": "https://kali.org/",
             "username": "kali",
@@ -72,8 +72,8 @@
             ],
             "supports_backup": false,
             "tarballs": [
-                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/BOOT_MNJRO.tar.xz/download",
-                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/manjaro-pi400-pinn/ROOT_MNJRO.tar.xz/download"
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/manjaro-pi400-pinn/BOOT_MNJRO.tar.xz",
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/manjaro-pi400-pinn/ROOT_MNJRO.tar.xz"
             ],
             "url": "https://manjaro.org/",
             "username": "",
@@ -98,8 +98,8 @@
             ],
             "supports_backup": false,
             "tarballs": [
-                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/boot_lede3.tar.xz/download",
-                "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/openwrt-pi400-pinn/boot_lede3.tar.xz/download"
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/openwrt-pi400-pinn/boot_lede3.tar.xz",
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/openwrt-pi400-pinn/root_lede3.tar.xz"
             ],
             "url": "https://openwrt.org",
             "username": "?",
