@@ -1,0 +1,20 @@
+{
+    "name" : "kali64",
+    "description" : "kali 64-bit 2020.10.2",
+    "release_date" : "2021-11-22",
+    "feature_level" : 0,
+    "supported_models" : [
+        "Pi 4",
+        "Pi 400",
+        "Pi 3 Model A Plus Rev",
+        "Pi 4 Model B Rev"
+    ],
+    "version" : "2020.10.2",
+    "kernel" : "4.19.118",
+    "supports_backup" : true,
+    "supports_usb_boot" : false,    
+    "url" : "https://kali.org/",
+    "group" : "General",
+    "username" : "kali",
+    "password" : "kali"
+}

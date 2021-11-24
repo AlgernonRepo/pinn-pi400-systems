@@ -1,0 +1,42 @@
+Method I used to add manjaro(kali64) to pinn os pi400
+
+I built kali with ext4 by mistake so after install atm you must change ext3 to ext4 in recovery.commandline
+I also replaced config.txt directly from fresh sdcard not sure  if this was needed
+instead of BOOT_MNJRO and ROOT_MNJRO i used Kali64boot and Kali64root
+
+1. Download manjaro-xx-xxx-xx.img.xz and renamed to manajro64.
+2. Using ubuntu 20.04 lts installed all dependencies I could for both pinnify and pinn, installed also build-essentials and libarchivetools (terminal recommended) 
+3. git cloned pinnify then before installing created manjaro64 template by copying first the template gentoo64 and changing as in the pinn os docs. Use MNJRO_BOOT and MNJRO_ROOT as partition names and names of resulting tar.xz . Removed checksum lines from two .json and trailing comma
+4. Install pinnify
+5. Check to see if manjaro template is installed with list-templates
+7. Make directories as seen in instructions then add manjaro64.img.xz to /root/
+8. enter the main command where 21.10 is version and 4.19.67-1 is kernel. these do not appear to need to be exact
+9. enter the following command
+
+root@al-HP-Notebook:~# pinnify create-release manjaro64 21.10 4.19.67-1 /root/releases/ /root/manjaro64.img.xz
+* PINN image creator v0.0.1
+* Creating working directory '/var/lib/pinnify'
+* Temporarily decompressing image (may take some time)
+* Mounted /root/manjaro64.img.xz on /dev/loop8
+* 2 partitions located in /dev/loop8, continuing
+* Creating temporary mountpoint
+* Analysing partition 'BOOT_MNJRO'
+* Finding size of partition 'BOOT_MNJRO' in KiB, MiB
+* Tarring up partition 'BOOT_MNJRO'
+* Compressing tarball (may take some time)
+* Analysing partition 'ROOT_MNJRO'
+* Finding size of partition 'ROOT_MNJRO' in KiB, MiB
+* Tarring up partition 'ROOT_MNJRO'
+* Compressing tarball (may take some time)
+* Unmounting /dev/loop8
+* Moving tarballs into /root/releases/manjaro64-21.10
+* Copying template files into /root/releases/manjaro64-21.10
+* (and updating with release metadata)
+* Preparing / updating slides_vga using script
+Can't update slide: please ensure convert and exiftool are installed
+* 
+* All done!
+
+10. confirms slides are as they should be as they were fow me despite the warning and renamed the final folder to remove the version number back to manjaro64.
+11. installed by adding an /os/manjaro64 folder with all the files on a usb stick then it appeared for main the pinn os sd card to install.
+12. using grsync added the over 1gb file to sourceforge then added rest of files
