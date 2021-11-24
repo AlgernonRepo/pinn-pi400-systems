@@ -4,8 +4,8 @@ After not using my pi400 for a couple months I decided to ditch the 6 sd cards t
 The selection was very good but rpi4 builds for manjaro did not detect input and kali did not detect wifi on my pi400 originally so set out to fix them.
 I also added batocera dev and openwrt the latter I have yet to test much but seems to boot.
 
-For Kali I used ext4 format so after installing but before booting edit its commandline.txt and change rootfstype=ext3 to ext4
-For Batocera disabling the splash boot in config.txt is recommended
+For Kali I used ext4 format so after installing but before booting edit its commandline.txt changing rootfstype=ext3 to ext4
+and for Batocera disabling the splash boot in config.txt is recommended
 
 Tested only with pi400 and sd card setup. To use you must change repo_list or specify alt_image_source in your recovery.commandline  and reload repos
 or alternatively manjaro, kali, and openwrt can be installed to the sd card from another storage device if put into a folder named os with additional sourceforge files.
