@@ -1,0 +1,26 @@
+        {
+            "os_name":                  "batoceradev64",
+            "description":              "batocera dev 64-bit v33",
+            "release_date":             "2021-11-21",
+            "version": "33",
+            "feature_level":            0,
+            "supported_models": [
+                "Pi 4",
+                "Pi 400",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4 Model B Rev"
+            ],
+            "supports_backup":          "true",          
+            "url":                      "https://batocera.org/",
+            "group":                    "General",
+            "download_size": 845268244,
+            "os_info":                  "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/os.json/download",
+            "partitions_info":          "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/partitions.json/download",
+            "icon":                     "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/batoceradev64.png/download",
+            "marketing_info":           "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/marketing.tar/download",
+            "partition_setup":          "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/partition_setup.sh/download",
+            "tarballs": [
+                "https://updates.batocera.org/rpi464/beta/last/boot.tar.xz"
+            ],
+            "nominal_size": 3226
+        }

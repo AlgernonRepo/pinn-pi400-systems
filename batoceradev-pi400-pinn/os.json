@@ -1,0 +1,16 @@
+{
+    "name": "batoceradev64",
+    "version": "33",
+    "release_date": "2021-11-16",
+    "description": "batocera.linux, the open source retro gaming console",
+    "url": "https://batocera.org/",
+    "group": "Games",
+    "username": "root",
+    "password": "linux",
+    "supports_backup": true,
+    "download_size": 845268244,
+    "supported_models": [
+        "Pi 4",
+        "Pi 400"
+    ]
+}
