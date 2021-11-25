@@ -36,7 +36,7 @@
             "os_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/os.json",
             "os_name": "ubuntu2010",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=ubuntu2010&s=41880",
+            "partitions_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/test/ubuntu64/partitions.json",
             "release_date": "2020-10-15",
             "supported_models": [
                 "Pi 4"
@@ -58,7 +58,7 @@
             "os_info": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/os.json",
             "os_name": "lineage19-rpi4",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/lineage19-rpi4/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=lineage19-rpi4&s=28407",
+            "partitions_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/test/lineage/partitions.json",
             "release_date": "2021-11-04",
             "supported_hex_revisions": "2082",
             "supported_models": [
@@ -158,7 +158,7 @@
             "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/os.json",
             "os_name": "Lakka_RPi4_64",
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4_64/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=lakka_rpi4_64&s=28059",
+            "partitions_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/test/lakka64/partitions.json",
             "release_date": "2021-10-24",
             "supported_models": [
                 "Pi 4"
@@ -206,7 +206,7 @@
             "os_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/os.json",
             "os_name": "LibreELEC_RPi4",
             "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=libreelec_rpi4&s=30094",
+            "partitions_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/test/libreelec/partitions.json",
             "release_date": "2021-08-11",
             "supported_hex_revisions": "",
             "supported_models": [
@@ -226,7 +226,7 @@
             "nominal_size": 200702,
             "os_info": "http://downloads.sourceforge.net/project/pinn/os/ProjectSpace/os.json",
             "os_name": "ProjectSpace - 8",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=projectspace-8&s=200702",
+            "partitions_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/test/projectspace-8/partitions.json",
             "release_date": "2018-05-14",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
