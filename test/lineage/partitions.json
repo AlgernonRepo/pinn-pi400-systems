@@ -1,0 +1,39 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "boot",
+            "partition_size_nominal": 127,
+            "sha512sum": "69951041c2375563579a3975e3033eeec91b767776c5e828c9704429b9457fe55a7b2237becb3104d4313e204743b81164708ea788fdc434ef44305ea750030d",
+            "uncompressed_tarball_size": 47,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "raw",
+            "label": "system",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 2048,
+            "sha512sum": "f79161dce2ed8ef8d87ee232f0bdc6ab2efe8ddb18e98555946ac8dc6392970d2a233dea9efe3ee621ba8c599f88938449a1e858e15a3a61db0dda9d0a30f4ef",
+            "uncompressed_tarball_size": 1363,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "raw",
+            "label": "vendor",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 256,
+            "sha512sum": "f4d423540a97f7df0c4c5b31ea845f7c681e7861b870a1bea6e760c2a7461901afcd774d841d9766afc28d594b42af9a5305adb03a087c12540ba8194cee8ff4",
+            "uncompressed_tarball_size": 98,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "ext4",
+            "label": "userdata",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 25960,
+            "sha512sum": "ea46ea9f6b3989a048c89b824cf12917bf1ec77dec0aace09ef4781f36323c41eb56067b79bce6cce846ca55ffa013368f7a4eb863aab60a45940d03ea128337",
+            "uncompressed_tarball_size": 19,
+            "want_maximised": true
+        }
+    ]
+}
