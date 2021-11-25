@@ -1,0 +1,1 @@
+runinstaller no_update no_default_source no_group bootmenutimeout=15 background=127,127,127 vncshare ssh style=motif lang=us keyboard=us quiet ramdisk_size=32768 root=/dev/ram0 init=/init vt.cur_default=1 elevator=deadline repo_list=http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/test/repo_list.json loglevel=2 sdhci.debug_quirks2=4
