@@ -1,0 +1,6 @@
+attempt to partition 512gb sd card with around 
+30gb each for batoceradev64 retropie64 lakka64 libreelec lineage19
+45gb each manjaro64 kali64 ubuntu64
+7gb openwrt
+200gb of freespace to be used to store games and movies
+

@@ -1,0 +1,20 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "Kali64boot",
+            "mkfs_options": "-F 32",
+            "partition_size_nominal": 140,
+            "uncompressed_tarball_size": 69,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "ext4",
+            "label": "Kali64root",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 41575,
+            "uncompressed_tarball_size": 7866,
+            "want_maximised": true
+        }
+    ]
+}
