@@ -1,0 +1,19 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "prjboot",
+            "partition_size_nominal": 150,
+            "uncompressed_tarball_size": 1,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "ext4",
+            "label": "prjroot",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 200544,
+            "uncompressed_tarball_size": 1,
+            "want_maximised": true
+        }
+    ]
+}
