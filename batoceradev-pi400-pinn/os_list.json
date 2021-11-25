@@ -14,11 +14,11 @@
             "url":                      "https://batocera.org/",
             "group":                    "General",
             "download_size": 845268244,
-            "os_info":                  "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/os.json/download",
-            "partitions_info":          "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/partitions.json/download",
-            "icon":                     "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/batoceradev64.png/download",
-            "marketing_info":           "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/marketing.tar/download",
-            "partition_setup":          "https://sourceforge.net/projects/manjaro-arm-pi400-pinn/files/batoceradev-pi400-pinn/partition_setup.sh/download",
+            "os_info":                  "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/batoceradev-pi400-pinn/os.json",
+            "partitions_info":          "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/batoceradev-pi400-pinn/partitions.json",
+            "icon":                     "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/batoceradev-pi400-pinn/batoceradev64.png",
+            "marketing_info":           "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/batoceradev-pi400-pinn/marketing.tar",
+            "partition_setup":          "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/batoceradev-pi400-pinn/partition_setup.sh",
             "tarballs": [
                 "https://updates.batocera.org/rpi464/beta/last/boot.tar.xz"
             ],
