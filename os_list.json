@@ -107,7 +107,7 @@
             "marketing_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/batoceradev-pi400-pinn/marketing.tar",
             "nominal_size": 28111,
             "os_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/batoceradev-pi400-pinn/os.json",
-            "os_name": "batocera_RPi4",
+            "os_name": "batoceradev64",
             "partition_setup": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/batoceradev-pi400-pinn/partition_setup.sh",
             "partitions_info": "https://pinn.mjh.nz/partitions.json?p=batocera_rpi4&s=28111",
             "password": "linux",
