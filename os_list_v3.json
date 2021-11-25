@@ -80,6 +80,32 @@
             "version": "21.10"
         },
         {
+            "description": "retropie 64-bit 4.7.2",
+            "download_size": 1229866520,
+            "group": "Games",
+            "icon": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/retropie64.png",
+            "marketing_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/marketing.tar",
+            "nominal_size": 9934,
+            "os_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/os.json",
+            "os_name": "retropie64",
+            "partition_setup": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/partition_setup.sh",
+            "partitions_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/partitions.json",
+            "password": "raspberry",
+            "release_date": "2021-06-10",
+            "supported_models": [
+                "Pi 400",
+                "Pi 4"
+            ],
+            "supports_backup": false,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/retropie-pi400-pinn/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/retropie-pi400-pinn/retropie.tar.xz"
+            ],
+            "url": "https://retropie.org.uk/",
+            "username": "pi",
+            "version": "4.7.2"
+        },        
+        {
             "description": "openwrt pi 400 21.02.1",
             "download_size": 400582588,
             "group": "Minimal",
