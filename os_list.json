@@ -130,7 +130,7 @@
             "download_size": 539674500,
             "feature_level": 0,
             "group": "Games",
-            "icon": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/manjaro64.png",
+            "icon": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/retropie64.png",
             "marketing_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/marketing.tar",
             "nominal_size": 27955,
             "os_info": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/os.json",
