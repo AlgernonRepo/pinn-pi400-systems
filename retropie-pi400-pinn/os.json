@@ -1,0 +1,20 @@
+{
+    "name":                     "retropie64",
+    "description":              "retropie 64-bit 4.7.2",
+    "release_date":             "2021-06-10",
+    "feature_level":            0,
+    "supported_hex_revisions": "1040,1041,2082",   
+    "supported_models": [
+        "Pi 4",
+        "Pi 400",
+        "Pi 3 Model A Plus Rev",
+        "Pi 4 Model B Rev"
+    ],
+    "version":                  "4.7.2",
+    "kernel":                   "5.4.72",
+    "supports_backup":          "false",
+    "url":                      "https://retropie.org.uk/",
+    "group":                    "Games",
+    "username":                 "pi",
+    "password":                 "raspberry"
+}

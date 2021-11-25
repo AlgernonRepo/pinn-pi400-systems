@@ -1,0 +1,26 @@
+        {
+            "os_name":                  "retropie64",
+            "description":              "retropie 64-bit 4.7.2",
+            "release_date":             "2021-06-10",
+            "feature_level":            0,
+            "supported_models": [
+                "Pi 4",
+                "Pi 400",
+                "Pi 3 Model A Plus Rev",
+                "Pi 4 Model B Rev"
+            ],
+            "supports_backup":          "false",
+            "url":                      "https://retropie.org.uk/",
+            "group":                    "Games",
+            "download_size":            1229866520,
+            "os_info":                  "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/os.json",
+            "partitions_info":          "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/partitions.json",
+            "icon":                     "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/manjaro64.png",
+            "marketing_info":           "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/marketing.tar",
+            "partition_setup":          "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/retropie-pi400-pinn/partition_setup.sh",
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/retropie-pi400-pinn/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/manjaro-arm-pi400-pinn/retropie-pi400-pinn/retropie.tar.xz"
+            ],
+            "nominal_size": 9934
+        }
