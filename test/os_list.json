@@ -119,7 +119,7 @@
             ],
             "supports_backup": true,
             "tarballs": [
-                "https://updates.batocera.org/rpi464/stable/last/boot.tar.xz"
+                "https://updates.batocera.org/rpi464/beta/last/boot.tar.xz"
             ],
             "url": "https://batocera.org",
             "username": "root",
