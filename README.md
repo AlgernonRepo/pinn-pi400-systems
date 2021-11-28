@@ -1,6 +1,6 @@
 # pinn-pi400-systems
 
-After not using my pi400 for a couple months I decided to ditch switchung out multiple sd cards and research multi-boot options, and pinn os seemed to be the best option.
+After not using my pi400 for a couple months I decided to ditch switching out multiple sd cards and research multi-boot options, and pinn os seemed to be the best option.
 
 Tested only with pi400 and sd card setup. To use you must change repo_list or specify alt_image_source in your recovery.commandline or alternatively manjaro, kali, retropie and openwrt can be installed to the sd card from another storage device offline if put into a folder named os with additional sourceforge files.
 
