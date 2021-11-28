@@ -4,3 +4,4 @@ attempt to partition 512gb sd card with around
 7gb openwrt
 200gb of freespace to be used to store games and movies
 
+added 34px and 40px matching set icons to all os supported by pin.
