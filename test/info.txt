@@ -1,7 +1,9 @@
-attempt to partition 512gb sd card with around 
+test folder originally an attempt to partition 512gb sd card with around 
 30gb each for batoceradev64 retropie64 lakka64 libreelec lineage19
 45gb each manjaro64 kali64 ubuntu64
 7gb openwrt
 200gb of freespace to be used to store games and movies
 
-added 34px and 40px matching set icons to all os supported by pin.
+use alternate repo lists to change icons or have all entries in one main list
+added 34px and 40px matching set of icons to all os supported by pin.
+icons best used with no_default_source specified in recovery.cmdline
