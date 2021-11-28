@@ -4,7 +4,7 @@
             "description": "Security-oriented, lightweight Linux distribution based on musl libc and busybox.",
             "download_size": 39017868,
             "group": "Minimal",
-            "icon": "htts://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/icons/34px/Alpine.png",
+            "icon": "http://raw.githubusercontent.com/AlgernonRepo/pinn-pi400-systems/main/icons/34px/Alpine.png",
             "marketing_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/Alpine/marketing.tar",
             "nominal_size": 200,
             "os_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/Alpine/os.json",
