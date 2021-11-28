@@ -6,4 +6,5 @@ test folder originally an attempt to partition 512gb sd card with around
 
 use alternate repo lists to change icons or have all entries in one main list
 added 34px and 40px matching set of icons to all os supported by pin.
+the default size of icons is 40px but I found I liked the 34px size so that all all 9 os on my sdcard will be visibile on boot menu at once. 
 icons best used with no_default_source specified in recovery.cmdline
