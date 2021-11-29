@@ -11,4 +11,4 @@ The repo_list_34px.json , repo_list_40px.json , or repo_list_original.json can b
 
 Main Pinn Os and wikis found here https://github.com/procount/pinn
 Script I used to convert new images here https://github.com/sakaki-/pinnify
-Website to help change install partition sizes (this repo not added there but may be useful to save on possible gparted times) https://pinn.mjh.nz/
+Website to help change partition sizes https://pinn.mjh.nz/
